@@ -6,7 +6,7 @@ import (
 	"log"
 	"sort"
 
-	"github.com/phoreproject/bls"
+	"github.com/youchainhq/bls"
 )
 
 // Signature is a message signature.

@@ -3,7 +3,7 @@ package bls_test
 import (
 	"testing"
 
-	"github.com/phoreproject/bls"
+	"github.com/youchainhq/bls"
 )
 
 func TestG1Generator(t *testing.T) {

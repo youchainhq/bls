@@ -5,7 +5,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/phoreproject/bls"
+	"github.com/youchainhq/bls"
 )
 
 func TestEvenOdd(t *testing.T) {
